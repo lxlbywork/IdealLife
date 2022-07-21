@@ -1,4 +1,5 @@
 # IdealLife - симулятор эволюции ботов
+
 В симуляторе можно наблюдать за развитием ботов<br>
 Можно сохранять/изменять геном бота<br>
 Создавать различные миры
@@ -30,4 +31,8 @@
 - поедания другим ботом
 - если при делении нет свободного места вокруг бота<br>
 # Скачать
-https://play.google.com/store/apps/details?id=com.levstudio.idollive
+https://play.google.com/store/apps/details?id=com.levstudio.idollive<br>
+<br>
+Приложение созданно как хобби<br>
+Создано на <b>фрейворке Solar2D</b><br>
+
